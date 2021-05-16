@@ -21,7 +21,7 @@ while times >= 0:
     
     times = times - 1
 
-pi = 4 * incircle/insquare # see joma video for confirmation: Ration of points times four is indeed pi
+pi = 4 * incircle/insquare # Ration of points times four is indeed pi
 
 #just for some additional information
 print("In: " + str(incircle))
